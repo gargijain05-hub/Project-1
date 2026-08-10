@@ -1,0 +1,8 @@
+2026-08-01 09:00:01 INFO Application started
+2026-08-01 09:05:12 INFO User logged in
+2026-08-01 09:10:45 WARNING Low memory detected
+2026-08-01 09:15:20 ERROR Database connection failed
+2026-08-01 09:20:15 INFO Database connection restored
+2026-08-01 09:25:30 WARNING Disk space is low
+2026-08-01 09:30:10 ERROR Failed to process request
+2026-08-01 09:35:45 INFO Application running normally
